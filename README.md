@@ -1,2 +1,2 @@
 # genome_eval
-A report for genome quality assessment
+A repo for genome quality assessment
